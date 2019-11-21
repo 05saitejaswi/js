@@ -1,2 +1,2 @@
-# js
-all the basic prg in js
+# python
+all the basic prg in python 
