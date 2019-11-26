@@ -64,3 +64,26 @@ print(List_Family[2]+", good morning")
 List_Family[2]='Sister'
 
 print(List_Family)
+
+
+Store the names of the 5 places you have visited in a list and print it.
+
+places=['US', 'France','Spanish','UK','India']
+
+print(places)
+
+Sort the list alphabetically and then print it.
+
+print(sorted(places))
+
+Reverse the items of the list.
+
+places.sort(reverse=True)
+
+Sort the list permanently and print it.
+
+print(places.sort())
+
+Find the length of the list.
+
+len(places).
